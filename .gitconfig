@@ -1,0 +1,8 @@
+[user]
+	name = Cameron Sweeney
+	email = cp_sweeney@hotmail.com
+[core]
+	editor = vim
+[pager]
+	branch = false
+	diff = false

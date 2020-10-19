@@ -1,0 +1,3 @@
+
+# Display options
+set number
